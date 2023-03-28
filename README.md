@@ -1,4 +1,4 @@
-# Mantra AVDM React
+# Mantra React
 
 Mantra AVDM integration demo for React application. This application is bootstrap with [create-react-app](https://create-react-app.dev/).
 
