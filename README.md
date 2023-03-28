@@ -6,8 +6,8 @@ Mantra AVDM integration demo for React application. This application is bootstra
 
 ## Running The Application
 
-- Use `yarn install` to install dependencies.
-- Use `yarn start` to run the app in the development mode.
+- Use `npm install` to install dependencies.
+- Use `npm start` to run the app in the development mode.
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Setup
@@ -25,9 +25,6 @@ Mantra AVDM integration demo for React application. This application is bootstra
 - [Bootstrap](https://getbootstrap.com/) : 5.1.3
 - [ReactFontAwesome](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react) : 0.1.16
 
-## Deployment
-
-This app is deployed on [Heroku](https://nakul5harma-mantra-avdm-react.herokuapp.com/).
 
 ## Debugging
 
